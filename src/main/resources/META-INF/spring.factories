@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  cursor.rybak.demostarter.internal.DevProfileResolverEnvPostProcessor
